@@ -3,7 +3,7 @@
 程序入口 · 窗口装配 · 执行状态机
 
 作者：刘硕（@favor177，组长）
-分支：main（通过 PR 合并）
+分支：feat/liushuo-main
 职责：把 ui_layout、algo_binary、algo_hash、render 四块拼起来，
       并管理「单步 / 自动播放 / 重置」三个状态的切换。
 
